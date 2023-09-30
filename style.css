@@ -16,4 +16,9 @@ img{
     z-index: 100;
     min-width:100px;
     max-width: 300px;
+    padding-left: 30px;
+}
+
+div{
+    padding:10px;
 }
